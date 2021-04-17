@@ -29,7 +29,10 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 | [H. API Terms](#h-api-terms) | These are the rules for using GitHub's APIs, whether you are using the API for development or data collection. |
 | [I. Additional Product Terms](#i-github-additional-product-terms) | We have a few specific rules for GitHub's features and products. |
 | [J. Beta Previews](#j-beta-previews) | These are some of the additional terms that apply to GitHub's features that are still in development. |
-| [K. Payment](#k-payment) | You are responsible for payment. We are responsible for billing you accurately. |
+| [K. Payment](#k-payment) | You 
+
+
+are responsible for payment. We are responsible for billing you accurately. |
 | [L. Cancellation and Termination](#l-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
 | [M. Communications with GitHub](#m-communications-with-github) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
 | [N. Disclaimer of Warranties](#n-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
